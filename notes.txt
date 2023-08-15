@@ -1,0 +1,25 @@
+- data in csv/ excel -> upload to db
+- fast-csv library : node package to pass csv
+- multer: uploading files to a server
+- express: web server
+- mysql driver 
+
+
+* Authentication - DONE
+* users specify table to insert csv data into
+* select csv file - DONE
+* submit
+* Design - DONE
+
+* Modified users table columns: - DONE
+1. ID
+2. UserID
+3. Password
+
+* User should have access(be able to upload data in csv) to just certain tables - 
+* Validation, Column headers
+
+create 2 sample tables to insert data into - different columns - DONE
+
+//
+
